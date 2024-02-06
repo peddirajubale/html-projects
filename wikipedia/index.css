@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond;
+    height: 100vh;
+    text-align: center;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input{
+    padding: 5px;
+    color: blue;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: green;
+    color: white;
+    padding: auto;
+}
